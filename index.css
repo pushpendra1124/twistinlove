@@ -1,0 +1,27 @@
+body{
+    background-color: brown;
+}
+.upline{
+    height: 30px;
+    color: ;
+    background-color: darkgrey;
+    text-align: center;
+    border-radius: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+    font-weight: bold;
+    
+
+}
+.downline{
+   height: 30px;
+    color: rgb(22, 21, 21);
+    background-color: darkgrey;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    font-family: 'Times New Roman', Times, serif;
+
+}
